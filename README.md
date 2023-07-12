@@ -31,5 +31,9 @@ This is a timed coding quiz with multiple-choice questions.
 ## License
 MIT
   
+## Links
+SSH: git@github.com:brycehadl/quiz.git
+HTTPS: https://github.com/brycehadl/quiz.git
+
 
 
